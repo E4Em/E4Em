@@ -1,12 +1,11 @@
-### Hi there 👋
-## Hi there 👋  I'm ningpro.
+## Hi there 👋  I'm E4Em.
 
-<img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/devSouvik/devSouvik/gif3.gif" width="500" />
+<img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/E4Em/E4Em/gif3.gif" width="500" />
 
 ### 👨🏻‍💻 About Me 
 
-- 🔭 I’m currently learning Flutter Application Development
-- 🤔 Exploring new technologies and developing software solutions and quick hacks.
+- 🔭 求职中
+- 🤔 复习
 - 🎓 Studying Computer Science and computer programming.
 - 💼 Back-end developer and front-end web developer.
 - 🌱 Love life and full of hope.
@@ -16,10 +15,9 @@
 
 ### 🛠 Tech Stack
 
-- 💻 Java | GO | PHP  
-- 🌐 HTML | CSS | JavaScript | Bootstrap | Vue
-- 🛢  MySQL
-- 🔧 Visual Studio code | Git
+- 🌐 HTML | CSS | JavaScript | Bootstrap | Vue | 微信小程序
+- 🛢   Node | Koa | MySQL
+- 🔧 Visual Studio code | Git | Postman
 
 <br/>
 
