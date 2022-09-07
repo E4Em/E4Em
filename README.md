@@ -5,12 +5,6 @@
 ### 👨🏻‍💻 About Me 
 
 - 🔭 求职中
-- 🤔 复习
-- 🎓 Studying Computer Science and computer programming.
-- 💼 Back-end developer and front-end web developer.
-- 🌱 Love life and full of hope.
-- ✍️ Watching Anime and observe latest design trends as hobbies/side hustles.
-- ☕ I belive, a perfect cup of black tea can be the ultimate solution for any stress. 
 
 
 ### 🛠 Tech Stack
